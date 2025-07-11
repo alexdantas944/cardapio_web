@@ -1,0 +1,46 @@
+{
+  "itens": [
+    {
+      "nome": "Pizza Calabresa",
+      "preco": 39.9,
+      "categoria": "Pizza",
+      "descricao": "Massa fina com calabresa",
+      "imagem": "/static/imagens/calabresa.jpg"
+    },
+    {
+      "nome": "Pizza Portuguesa",
+      "preco": 42.0,
+      "categoria": "Pizza",
+      "descricao": "Presunto, ovo, cebola e azeitona",
+      "imagem": "/static/imagens/portuguesa.jpg"
+    },
+    {
+      "nome": "Pizza Quatro Queijos",
+      "preco": 45.0,
+      "categoria": "Pizza",
+      "descricao": "4 queijos especiais",
+      "imagem": "/static/imagens/4queijos.jpg"
+    },
+    {
+      "nome": "Coca-Cola 2 L",
+      "preco": 10.0,
+      "categoria": "Bebida",
+      "descricao": "Refrigerante gelado",
+      "imagem": "/static/imagens/coca2l.jpg"
+    },
+    {
+      "nome": "Guaraná Antártica 1 L",
+      "preco": 7.0,
+      "categoria": "Bebida",
+      "descricao": "Guaraná natural",
+      "imagem": "/static/imagens/guarana.jpg"
+    },
+    {
+      "nome": "Água sem Gás",
+      "preco": 3.0,
+      "categoria": "Bebida",
+      "descricao": "Água mineral",
+      "imagem": "/static/imagens/agua.jpg"
+    }
+  ]
+}
